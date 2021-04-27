@@ -1,6 +1,6 @@
 ﻿
 # base
-<div dir="rtl"T> تساعد في نسهيل استنساخ دوال او مدخلات الاب للابناء و تسهل عميلة object orianted programing .
+<div dir="rtl"T> تساعد في تسهيل استنساخ دوال او مدخلات الاب للابناء و تسهل عميلة object orianted programing .
 	</div>
 >for example:
 	
