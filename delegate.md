@@ -1,6 +1,7 @@
 ﻿# delegate
 
-A `delegate` is a reference type that can be used to encapsulate a named or an anonymous method
+<div dir="rtl"> فائدتها انها تساعدك على استخدام كثير من الدوال في دالة واحد وهياdelegat بشرط ان يكون المدخلات و المخرجات نفس الشيء في الدوال الثانية
+	</div>
 >for example:
 
 	public static int sum(int a, int b) { return a + b; }
