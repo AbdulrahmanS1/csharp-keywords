@@ -1,7 +1,8 @@
 ﻿
 # Abstract
-The `abstract` modifier indicates that the thing being modified has a missing or incomplete implementation.
-its an object orianted featuer that enforce the childern to override it methods, so everyone of them has his own signature on the method
+<div dir= "rtl"> اي class يتم اضافة عليه كلمة abstract يتم اجبار الأبناء بإعادة كتاب ما تم كتابة عليه abstract في حالة ما كان مدخل او دالة, لجعل الأبناء في وضع التعديل الكامل و الخاص على الدالة و المدخل و مما يؤدي للالتزام الكامل ب OOP 
+	</div>
+	
 >for example:
 
 	abstract class Animal
