@@ -1,10 +1,7 @@
 ﻿
 # base
-The  `base`  keyword is used to access members of the base class from within a derived class:
-
--   Call a method on the base class that has been overridden by another method.
-    
--   Specify which base-class constructor should be called when creating instances of the derived class.
+<div dir="rtl"T> تساعد في نسهيل استنساخ دوال او مدخلات الاب للابناء و تسهل عميلة object orianted programing .
+	</div>
 >for example:
 	
 	public  class  BaseClass { 
