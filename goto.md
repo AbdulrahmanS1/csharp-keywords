@@ -2,8 +2,8 @@
 
 
 # goto
-Jumb statement .
-Most of thr time will make the program go on infinte loop, to prevent this you need a counter.
+<div dir=rtl>تساعدك على تخطي الدالة الحالية و الرجوع الى مكان معين و في اغلب الأحيان تكون غير مفيدة لانها سوف تدخلك في loop .
+</div>
 >for example:
 
 	 public static void isSeven(string seven)
